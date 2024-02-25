@@ -1,0 +1,13 @@
+C:\Users\karan\Source\Repos\HarkHeer720\SimonTemplate\SimonSays\bin\Debug\SimonSays.exe.config
+C:\Users\karan\Source\Repos\HarkHeer720\SimonTemplate\SimonSays\bin\Debug\SimonSays.exe
+C:\Users\karan\Source\Repos\HarkHeer720\SimonTemplate\SimonSays\bin\Debug\SimonSays.pdb
+C:\Users\karan\Source\Repos\HarkHeer720\SimonTemplate\SimonSays\obj\x86\Debug\SimonSays.csproj.AssemblyReference.cache
+C:\Users\karan\Source\Repos\HarkHeer720\SimonTemplate\SimonSays\obj\x86\Debug\SimonSays.Form1.resources
+C:\Users\karan\Source\Repos\HarkHeer720\SimonTemplate\SimonSays\obj\x86\Debug\SimonSays.GameOverScreen.resources
+C:\Users\karan\Source\Repos\HarkHeer720\SimonTemplate\SimonSays\obj\x86\Debug\SimonSays.GameScreen.resources
+C:\Users\karan\Source\Repos\HarkHeer720\SimonTemplate\SimonSays\obj\x86\Debug\SimonSays.MenuScreen.resources
+C:\Users\karan\Source\Repos\HarkHeer720\SimonTemplate\SimonSays\obj\x86\Debug\SimonSays.Properties.Resources.resources
+C:\Users\karan\Source\Repos\HarkHeer720\SimonTemplate\SimonSays\obj\x86\Debug\SimonSays.csproj.GenerateResource.cache
+C:\Users\karan\Source\Repos\HarkHeer720\SimonTemplate\SimonSays\obj\x86\Debug\SimonSays.csproj.CoreCompileInputs.cache
+C:\Users\karan\Source\Repos\HarkHeer720\SimonTemplate\SimonSays\obj\x86\Debug\SimonSays.exe
+C:\Users\karan\Source\Repos\HarkHeer720\SimonTemplate\SimonSays\obj\x86\Debug\SimonSays.pdb
